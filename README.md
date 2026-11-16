@@ -243,5 +243,3 @@ sessionInfo()
 
 **Project:** Differential Gene Expression Analysis of COVID-19 and Non-COVID-19 Patients Using R
 
-**Author:** BSc Honours in Computer Science  
-**University:** University of Vavuniya, Sri Lanka
